@@ -1,4 +1,4 @@
-package produtos;
+package atividade2;
 
 public class Produtos {
     private String nome;

@@ -1,4 +1,4 @@
-import aluguel.Aluguel;
+import atividade3.Aluguel;
 
 import java.util.Scanner;
 

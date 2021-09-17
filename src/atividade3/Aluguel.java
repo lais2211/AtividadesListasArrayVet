@@ -1,4 +1,4 @@
-package aluguel;
+package atividade3;
 
 public class Aluguel {
     private String nome;

@@ -1,4 +1,4 @@
-import funcionarios.Func;
+import atividade4.Func;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

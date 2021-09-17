@@ -1,4 +1,4 @@
-package funcionarios;
+package atividade4;
 
 public class Func {
     private String nome;
