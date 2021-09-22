@@ -4,6 +4,7 @@ public class Produtos {
     private String nome;
     private double preço;
 
+    public Produtos () {}
 
     public Produtos(String nome, double preço){
         this. nome = nome;

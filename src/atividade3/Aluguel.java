@@ -5,6 +5,8 @@ public class Aluguel {
     private String email;
     private Integer ap;
 
+    public Aluguel (){}
+
     public Aluguel (String nome,String email) {
         this.nome= nome;
         this.email=email;

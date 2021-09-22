@@ -6,6 +6,8 @@ public class Func {
     private Double salario;
     public Integer porcentagem;
 
+    public Func (){}
+
     public Func(String nome, Integer id, Double salario) {
         this.nome = nome;
         this.id = id;
